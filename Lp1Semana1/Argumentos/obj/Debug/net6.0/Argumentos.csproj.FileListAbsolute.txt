@@ -1,0 +1,14 @@
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\bin\Debug\net6.0\Argumentos.exe
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\bin\Debug\net6.0\Argumentos.deps.json
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\bin\Debug\net6.0\Argumentos.runtimeconfig.json
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\bin\Debug\net6.0\Argumentos.dll
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\bin\Debug\net6.0\Argumentos.pdb
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\obj\Debug\net6.0\Argumentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\obj\Debug\net6.0\Argumentos.AssemblyInfoInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\obj\Debug\net6.0\Argumentos.AssemblyInfo.cs
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\obj\Debug\net6.0\Argumentos.csproj.CoreCompileInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\obj\Debug\net6.0\Argumentos.dll
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\obj\Debug\net6.0\refint\Argumentos.dll
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\obj\Debug\net6.0\Argumentos.pdb
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\obj\Debug\net6.0\Argumentos.genruntimeconfig.cache
+D:\Uni\Estudos\Lp1Exercicios\Argumentos\obj\Debug\net6.0\ref\Argumentos.dll

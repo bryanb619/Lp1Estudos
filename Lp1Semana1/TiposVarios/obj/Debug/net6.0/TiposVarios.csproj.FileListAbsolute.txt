@@ -1,0 +1,14 @@
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\bin\Debug\net6.0\TiposVarios.exe
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\bin\Debug\net6.0\TiposVarios.deps.json
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\bin\Debug\net6.0\TiposVarios.runtimeconfig.json
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\bin\Debug\net6.0\TiposVarios.dll
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\bin\Debug\net6.0\TiposVarios.pdb
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\TiposVarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\TiposVarios.AssemblyInfoInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\TiposVarios.AssemblyInfo.cs
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\TiposVarios.csproj.CoreCompileInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\TiposVarios.dll
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\refint\TiposVarios.dll
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\TiposVarios.pdb
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\TiposVarios.genruntimeconfig.cache
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\ref\TiposVarios.dll
