@@ -12,3 +12,4 @@ D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\refint\Tipo
 D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\TiposVarios.pdb
 D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\TiposVarios.genruntimeconfig.cache
 D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\ref\TiposVarios.dll
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\TiposVarios\obj\Debug\net6.0\TiposVarios.sourcelink.json
