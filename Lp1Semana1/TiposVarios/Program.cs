@@ -38,7 +38,9 @@ namespace TiposVarios
             // 11 Variaveis de tipo bool
             bool detected = false;
 
-            bool conection = true;
+            bool connection = true;
+
+            Console.WriteLine($" Server was: {detected} and conection status is: {connection}");
 
 
 
