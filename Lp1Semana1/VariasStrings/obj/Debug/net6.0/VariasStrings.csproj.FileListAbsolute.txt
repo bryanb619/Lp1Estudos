@@ -1,0 +1,15 @@
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\bin\Debug\net6.0\VariasStrings.exe
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\bin\Debug\net6.0\VariasStrings.deps.json
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\bin\Debug\net6.0\VariasStrings.runtimeconfig.json
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\bin\Debug\net6.0\VariasStrings.dll
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\bin\Debug\net6.0\VariasStrings.pdb
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\obj\Debug\net6.0\VariasStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\obj\Debug\net6.0\VariasStrings.AssemblyInfoInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\obj\Debug\net6.0\VariasStrings.AssemblyInfo.cs
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\obj\Debug\net6.0\VariasStrings.csproj.CoreCompileInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\obj\Debug\net6.0\VariasStrings.sourcelink.json
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\obj\Debug\net6.0\VariasStrings.dll
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\obj\Debug\net6.0\refint\VariasStrings.dll
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\obj\Debug\net6.0\VariasStrings.pdb
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\obj\Debug\net6.0\VariasStrings.genruntimeconfig.cache
+D:\Uni\Estudos\Lp1Exercicios\Lp1Semana1\VariasStrings\obj\Debug\net6.0\ref\VariasStrings.dll
