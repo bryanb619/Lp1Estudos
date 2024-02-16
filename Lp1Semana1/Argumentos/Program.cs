@@ -4,7 +4,7 @@ namespace Argumentos
 {
     class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             // Writes a string in the console
             Console.WriteLine("Inserir Argumentos");

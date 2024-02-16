@@ -6,21 +6,24 @@ namespace VariasStrings
     {
         private static string _name = "Steve";
 
-        private static string _simplePath = "C:\\Users\\Steve\\Documents";
+        // paths
+        private static string _pathWithoutVerbatim = "C:\\Users\\Steve\\Documents";
+        private static string _pathWithVerbatim = @"C:\Users\Steve\Documents";
 
-        private static string _path = @"C:\Users\Steve\Documents";
-
-        private static string s = @"""Esta string esta ’ entre aspas""";
+        // text with quotes
+        private static string _noVerbatim = "\" Esta string esta' entre aspas\"";
+        private static string _withVerbatim = @"""Esta string esta ’ entre aspas""";
+       
 
         static void Main(string[] args)
         {
             Console.WriteLine("User Name: " +_name);
 
-            Console.WriteLine("Path without verbatin: " +_simplePath);
+            Console.WriteLine("Path without verbatin: " +_pathWithoutVerbatim);
+            Console.WriteLine("Path with verbatin: "    +_pathWithVerbatim);
 
-            Console.WriteLine("Path with verbatin: " +_path);
-
-            Console.WriteLine(s);
+            Console.WriteLine("String sem verbatim: "   +_noVerbatim);
+            Console.WriteLine("String com verbatim: "   +_withVerbatim);
         }
     }
 }

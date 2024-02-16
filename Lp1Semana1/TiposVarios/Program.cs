@@ -11,15 +11,10 @@ namespace TiposVarios
             int myIntNumber = 1;
             int myIntNumber2 = 2;
 
-            Console.WriteLine($"{myIntNumber} {myIntNumber2}");
-            // ------------------------------------------------------------------------------------
-
-            // 5 Unicode 
-            string heart = "\u2764"; // 
-            Console.WriteLine(heart); // display emoji when supported by console
+            char heart = '\u2764'; 
+            Console.WriteLine(heart); // display emoji when supported by console 
 
             char star = '\u2605';
-
             Console.WriteLine(Convert.ToInt32(star)); // display int number of star 
             // ------------------------------------------------------------------------------------
 

@@ -8,7 +8,7 @@ namespace OlaMundo
     class Program
     {
         /// <summary>
-        /// Main method
+        /// Main method prints hello!
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
