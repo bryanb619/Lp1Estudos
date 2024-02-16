@@ -4,6 +4,7 @@ namespace VariasStrings
 {
     class Program
     {
+        // EX 4
         private static string _name = "Steve";
 
         // paths
@@ -13,10 +14,21 @@ namespace VariasStrings
         // text with quotes
         private static string _noVerbatim = "\" Esta string esta' entre aspas\"";
         private static string _withVerbatim = @"""Esta string esta ’ entre aspas""";
-       
+        //-------------------------------------------------------------------------------
 
-        static void Main(string[] args)
+        // EX 5
+        private static string _firstName = "Steve";
+        private static string _lastName = "Hall";
+
+        private static int x = 2, y = 3; 
+
+
+        private static void Main(string[] args)
         {
+
+            // EX 4 
+
+            Console.WriteLine("EX 4 ----------------------------");
             Console.WriteLine("User Name: " +_name);
 
             Console.WriteLine("Path without verbatin: " +_pathWithoutVerbatim);
@@ -24,6 +36,28 @@ namespace VariasStrings
 
             Console.WriteLine("String sem verbatim: "   +_noVerbatim);
             Console.WriteLine("String com verbatim: "   +_withVerbatim);
+            //-------------------------------------------------------------------------------
+
+            // EX 5
+            Console.WriteLine("EX 5 ----------------------------");
+
+            // Simple concatenation
+            Console.WriteLine("Student name is:" +" Steven " + "Hall");
+            
+            // Interpolation
+            Console.WriteLine($"User first name is {_firstName} and last name is {_lastName}");
+            // interpolation and sum operation
+            Console.WriteLine($"The value of x is: {x} and y is: {y}. Their sum is: {x + y}");
+
+
+            // String.Format applied directly in WriteLine();
+            Console.WriteLine(string.Format("Y e’ {1}, X e’ {0}", x, y));
+
+
+            // Use of verbatim, REMEMBER it does work as a interpolation
+            Console.WriteLine(@"string com Verbatim x = {2} e y = {3} and their sum is: {2+3}");
+            //-------------------------------------------------------------------------------
+
         }
     }
 }
