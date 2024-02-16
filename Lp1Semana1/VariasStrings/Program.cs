@@ -38,6 +38,7 @@ namespace VariasStrings
             Console.WriteLine("String com verbatim: "   +_withVerbatim);
             //-------------------------------------------------------------------------------
 
+
             // EX 5
             Console.WriteLine("EX 5 ----------------------------");
 
@@ -57,6 +58,28 @@ namespace VariasStrings
             // Use of verbatim, REMEMBER it does work as a interpolation
             Console.WriteLine(@"string com Verbatim x = {2} e y = {3} and their sum is: {2+3}");
             //-------------------------------------------------------------------------------
+
+
+            // EX 6 
+
+            // 1 -
+            double xx =  0.12345;
+            int ii = 18; 
+
+            // 2 - 
+            // Com 2 casas decimais
+            Console.WriteLine(xx.ToString("F2"));
+
+            // com uma casa decimal e simbolo de percentagem
+            Console.WriteLine($"{xx:F1}%");
+
+            // 3 - hexadecimal
+            Console.WriteLine(ii.ToString("X"));
+
+            // moeda
+            Console.WriteLine(ii.ToString("C"));
+
+
 
         }
     }
