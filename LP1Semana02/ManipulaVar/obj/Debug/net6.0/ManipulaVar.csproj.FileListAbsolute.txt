@@ -1,0 +1,15 @@
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\bin\Debug\net6.0\ManipulaVar.exe
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\bin\Debug\net6.0\ManipulaVar.deps.json
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\bin\Debug\net6.0\ManipulaVar.runtimeconfig.json
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\bin\Debug\net6.0\ManipulaVar.dll
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\bin\Debug\net6.0\ManipulaVar.pdb
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.AssemblyInfoInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.AssemblyInfo.cs
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.csproj.CoreCompileInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.sourcelink.json
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.dll
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\obj\Debug\net6.0\refint\ManipulaVar.dll
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.pdb
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.genruntimeconfig.cache
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ref\ManipulaVar.dll

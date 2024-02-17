@@ -79,8 +79,6 @@ namespace VariasStrings
             // moeda
             Console.WriteLine(ii.ToString("C"));
 
-
-
         }
     }
 }

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fo3IAtGhZ1PPfw+c1/jj39vaC9ynpnne4+ZN5VGcShejbjrYW+jBCYC8JnI5vNBGSrf4founoOM08OyNGhzlYQ==",
+  "success": true,
+  "projectFilePath": "D:\\Uni\\Estudos\\Lp1Exercicios\\LP1Semana02\\ManipulaVar\\ManipulaVar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
