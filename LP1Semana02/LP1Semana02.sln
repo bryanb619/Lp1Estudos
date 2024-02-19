@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulaVar", "ManipulaVar\ManipulaVar.csproj", "{AF0BD737-720C-4D4E-A04D-D7A5929C83C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio02", "Exercicio02\Exercicio02.csproj", "{E716DD46-8B6F-413F-B6FB-FA102C4D980C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourSisterAndTheDuckbear", "FourSisterAndTheDuckbear\FourSisterAndTheDuckbear.csproj", "{AE907FE7-0B28-4349-9F46-672266700B20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{AF0BD737-720C-4D4E-A04D-D7A5929C83C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF0BD737-720C-4D4E-A04D-D7A5929C83C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF0BD737-720C-4D4E-A04D-D7A5929C83C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E716DD46-8B6F-413F-B6FB-FA102C4D980C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E716DD46-8B6F-413F-B6FB-FA102C4D980C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E716DD46-8B6F-413F-B6FB-FA102C4D980C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E716DD46-8B6F-413F-B6FB-FA102C4D980C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE907FE7-0B28-4349-9F46-672266700B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE907FE7-0B28-4349-9F46-672266700B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE907FE7-0B28-4349-9F46-672266700B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE907FE7-0B28-4349-9F46-672266700B20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

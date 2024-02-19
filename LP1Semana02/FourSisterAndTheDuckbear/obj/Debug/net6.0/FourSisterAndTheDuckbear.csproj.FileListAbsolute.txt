@@ -1,0 +1,15 @@
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\bin\Debug\net6.0\FourSisterAndTheDuckbear.exe
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\bin\Debug\net6.0\FourSisterAndTheDuckbear.deps.json
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\bin\Debug\net6.0\FourSisterAndTheDuckbear.runtimeconfig.json
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\bin\Debug\net6.0\FourSisterAndTheDuckbear.dll
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\bin\Debug\net6.0\FourSisterAndTheDuckbear.pdb
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\obj\Debug\net6.0\FourSisterAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\obj\Debug\net6.0\FourSisterAndTheDuckbear.AssemblyInfoInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\obj\Debug\net6.0\FourSisterAndTheDuckbear.AssemblyInfo.cs
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\obj\Debug\net6.0\FourSisterAndTheDuckbear.csproj.CoreCompileInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\obj\Debug\net6.0\FourSisterAndTheDuckbear.sourcelink.json
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\obj\Debug\net6.0\FourSisterAndTheDuckbear.dll
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\obj\Debug\net6.0\refint\FourSisterAndTheDuckbear.dll
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\obj\Debug\net6.0\FourSisterAndTheDuckbear.pdb
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\obj\Debug\net6.0\FourSisterAndTheDuckbear.genruntimeconfig.cache
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\FourSisterAndTheDuckbear\obj\Debug\net6.0\ref\FourSisterAndTheDuckbear.dll

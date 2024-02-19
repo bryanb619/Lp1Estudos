@@ -1,0 +1,15 @@
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\bin\Debug\net6.0\Exercicio02.exe
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\bin\Debug\net6.0\Exercicio02.deps.json
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\bin\Debug\net6.0\Exercicio02.runtimeconfig.json
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\bin\Debug\net6.0\Exercicio02.dll
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\bin\Debug\net6.0\Exercicio02.pdb
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\obj\Debug\net6.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\obj\Debug\net6.0\Exercicio02.AssemblyInfoInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\obj\Debug\net6.0\Exercicio02.AssemblyInfo.cs
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\obj\Debug\net6.0\Exercicio02.csproj.CoreCompileInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\obj\Debug\net6.0\Exercicio02.sourcelink.json
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\obj\Debug\net6.0\Exercicio02.dll
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\obj\Debug\net6.0\refint\Exercicio02.dll
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\obj\Debug\net6.0\Exercicio02.pdb
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\obj\Debug\net6.0\Exercicio02.genruntimeconfig.cache
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\Exercicio02\obj\Debug\net6.0\ref\Exercicio02.dll

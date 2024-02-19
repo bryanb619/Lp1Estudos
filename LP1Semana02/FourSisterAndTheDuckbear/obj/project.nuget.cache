@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4iJcS2mr+j7fBIwbjzmtnE0Akmk+0Dr6wClHw1ouHAnG25yv5ip/+dbPOmRcq8jG5BAPqWVXbBGQQ+6+JPUnaw==",
+  "success": true,
+  "projectFilePath": "D:\\Uni\\Estudos\\Lp1Exercicios\\LP1Semana02\\FourSisterAndTheDuckbear\\FourSisterAndTheDuckbear.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
