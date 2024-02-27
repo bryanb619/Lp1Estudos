@@ -1,0 +1,15 @@
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\bin\Debug\net6.0\TheDominationKing.exe
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\bin\Debug\net6.0\TheDominationKing.deps.json
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\bin\Debug\net6.0\TheDominationKing.runtimeconfig.json
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\bin\Debug\net6.0\TheDominationKing.dll
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\bin\Debug\net6.0\TheDominationKing.pdb
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\obj\Debug\net6.0\TheDominationKing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\obj\Debug\net6.0\TheDominationKing.AssemblyInfoInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\obj\Debug\net6.0\TheDominationKing.AssemblyInfo.cs
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\obj\Debug\net6.0\TheDominationKing.csproj.CoreCompileInputs.cache
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\obj\Debug\net6.0\TheDominationKing.sourcelink.json
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\obj\Debug\net6.0\TheDominationKing.dll
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\obj\Debug\net6.0\refint\TheDominationKing.dll
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\obj\Debug\net6.0\TheDominationKing.pdb
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\obj\Debug\net6.0\TheDominationKing.genruntimeconfig.cache
+D:\Uni\Estudos\Lp1Exercicios\LP1Semana02\TheDominationKing\obj\Debug\net6.0\ref\TheDominationKing.dll

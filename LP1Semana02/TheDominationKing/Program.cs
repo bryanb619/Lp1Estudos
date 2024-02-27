@@ -3,14 +3,16 @@
 namespace TheDominationKing
 {
     /// <summary>
-    /// 
+    /// Represents point calculator for a King
     /// </summary>
     class Program
     {
         /// <summary>
-        /// 
+        /// Requests user input for provinces, duchies and estates
+        /// Add points accordingly the type of property
+        /// Outputs the total sum of points
         /// </summary>
-        /// <param name="args"></param>
+        /// <param name="args">Not used</param>
         private static void Main(string[] args)
         {
             int points = 0; 
@@ -31,12 +33,12 @@ namespace TheDominationKing
             Console.WriteLine("Enter your estates");
             int e = int.Parse(Console.ReadLine()); 
 
+            // point equation
+            points = e * 1 + 3 *d + 6 *p; 
 
-            //points += p *1; 
-
-            points = p *1 + d * 3 + e * 6; 
-
+            // displays points
             Console.WriteLine($"Your total points is: {points}!"); 
+       
 
 
 
