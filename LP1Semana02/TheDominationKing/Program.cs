@@ -13,6 +13,8 @@ namespace TheDominationKing
         /// <param name="args"></param>
         private static void Main(string[] args)
         {
+            int points = 0; 
+
             // request provinces
             Console.WriteLine("Enter your provinces!");
 
@@ -28,6 +30,18 @@ namespace TheDominationKing
             // read estate input & convert to int
             Console.WriteLine("Enter your estates");
             int e = int.Parse(Console.ReadLine()); 
+
+
+            //points += p *1; 
+
+            points = p *1 + d * 3 + e * 6; 
+
+            Console.WriteLine($"Your total points is: {points}!"); 
+
+
+
+
+
         }
     }
 }
