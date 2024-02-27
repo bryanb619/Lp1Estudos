@@ -11,8 +11,8 @@ namespace Exercicio02
 
             //x = i1 << 2;
             //x <<= x;
-            x= ~ (i1 | i3);
-
+            //x= ~ (i1 | i3);
+            x &= 0x21AD ^ i1;  
             // 
             Console.WriteLine(x);
         }
